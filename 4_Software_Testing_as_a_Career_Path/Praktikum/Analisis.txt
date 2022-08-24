@@ -1,0 +1,10 @@
+Soal analisis kendi 5L, 3L, berapakah 4L
+Ans :
+
+    i) Isi kendi 5L lalu tuangkan air ini ke dalam kendi 3L
+    ii) Sekarang di kendi 5L hanya tersisa air 2L.
+    iii) Kosongkan kendi 3L. 
+    iv) Tuang air 2L yang tersisa ke dalam kendi 5L ke kendi 3L.
+    v) Sekarang kendi 5L benar-benar kosong. 
+    vi) Isi kendi 5L lagi dengan air dan tuangkan 1L ke dalam kendi 3L. 
+    vii) Sekarang yang tersisa di kendi 5L adalah persis 4L air.
