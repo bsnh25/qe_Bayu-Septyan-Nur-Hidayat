@@ -1,3 +1,5 @@
+(3)_Versioning Control with GIT
+
 Version control System merupakan sistem yang mengelola perubahan dan seuah dokumen, program komputer, rancangan website, dan kumpulan informasi lainnya. Hal ini juga berguna untuk berkolaborasi dengan orang lain.
 Commit = file yang kita buat, bisa juga di ubah-ubah
 Branch = jalur development bebas dari sebuah commit
