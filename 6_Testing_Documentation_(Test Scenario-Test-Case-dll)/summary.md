@@ -1,7 +1,8 @@
 # (6)_Testing_Documentation_(Test Scenario-Test-Case-dll)
 
 ### A. ***Test Scenario***
-    *Test Scenario* merupakan sekumpulan dokumen yang berisi tentang langkah-langkah sistematis yang disusun oleh *software tester* agar sistem yang ingin dites dapat memenuhi ketentuan yang diinginkan user, memenuhi standar tertentu, dan dapat berfungsi dengan baik. Tujuan dari *test scenario* yaitu:
+    *Test Scenario* merupakan sekumpulan dokumen yang berisi tentang langkah-langkah sistematis yang disusun oleh *software tester* agar sistem yang ingin dites dapat memenuhi ketentuan yang diinginkan user, memenuhi standar tertentu, dan dapat berfungsi dengan baik. 
+    Tujuan dari *test scenario* yaitu:
         1. Memudahkan developer & tester dalam *testing*.
         2. Sebagai landasan dasar sebuah projek.
         3. Sebagai dasar *client/product owner* menyesuaikan dengan *requirement*.
@@ -25,7 +26,8 @@
         12. *Keep update*.
 
 ### B. ***Test Case***
-    *Test Case* merupakan rancangan/rangkaian mengenai tindakan yang akan dilakukan oleh *software tester* untuk melakukan verifikasi terhadap fitur/fungsi tertentu dari sebuah perangkat lunak. Tujuan dari *test case* adalah memastikan bahwa suatu sistem dapat berjalan dengan baik sesuai dengan kebutuhan awal serta mampu memberikan respon ketika diberikan masukan yang tidak *valid*.
+    *Test Case* merupakan rancangan/rangkaian mengenai tindakan yang akan dilakukan oleh *software tester* untuk melakukan verifikasi terhadap fitur/fungsi tertentu dari sebuah perangkat lunak. 
+    Tujuan dari *test case* adalah memastikan bahwa suatu sistem dapat berjalan dengan baik sesuai dengan kebutuhan awal serta mampu memberikan respon ketika diberikan masukan yang tidak *valid*.
     Komponen dari *test case* yaitu:
         1. *id of test case.*
         2. *desc of test case.*
