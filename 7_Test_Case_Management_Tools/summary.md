@@ -32,4 +32,4 @@
     8. Test Report
 
     Alur kerja TestRail : 
-    ![alt text](testrail_fc.jpg)
+![alt text](testrail_fc.jpg)
