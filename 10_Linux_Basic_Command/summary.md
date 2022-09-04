@@ -6,12 +6,12 @@
  Command line digunakan karena beberapa sebab, yaitu membutuhkan sumberdaya yang sedikit, *repetitive task friendly* , dan powerful dalam penggunaannya.
 
 ## B. Bentuk dan macam dari commands Linux
- 1. ** Linux Commands Structure ** => penulisannya yaitu **command [options] [parameters]** . Contoh: (ls -a /usr) , (ls -a -l) , ( ls -al)
- 2. ** Basic Commands ** => cal, date, etc
- 3. ** File System Commands ** => touch, cat, cp, mv, rm, mkdir, rmdir, cd, pwd
- 4. ** Processes Control Commands ** => top, clear, history, etc
- 5. ** Utilities Programs Commands ** => ls, which, sudo, find, etc
- 6. ** File Access Permissions ** => chmod, chown, etc
+ 1. **Linux Commands Structure** => penulisannya yaitu **command [options] [parameters]** . Contoh: (ls -a /usr) , (ls -a -l) , ( ls -al)
+ 2. **Basic Commands** => cal, date, etc
+ 3. **File System Commands** => touch, cat, cp, mv, rm, mkdir, rmdir, cd, pwd
+ 4. **Processes Control Commands** => top, clear, history, etc
+ 5. **Utilities Programs Commands** => ls, which, sudo, find, etc
+ 6. **File Access Permissions** => chmod, chown, etc
  
  ![alt text](contoh.jpg)
  d|rwx|rwx|rwx => cara bacanya yaitu, 
