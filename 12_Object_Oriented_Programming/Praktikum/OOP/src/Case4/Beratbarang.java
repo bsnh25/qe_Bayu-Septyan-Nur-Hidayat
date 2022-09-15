@@ -2,9 +2,11 @@ package Case4;
 
 public class Beratbarang {
     protected double Berat;
+    protected double Harga;
 
-    protected double harga() {
-        return ((Berat*5000));
+    protected double Ongkir() {
+
+        return ((Harga+5000));
     }
 
 }

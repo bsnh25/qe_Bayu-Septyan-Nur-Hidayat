@@ -13,11 +13,12 @@ public class Running {
 
         Beratbarang beratbarang = new Beratbarang();
         double Berat = beratbarang.Berat;
-        beratbarang.Berat = 1;
-        double harga = beratbarang.harga();
+        beratbarang.Berat = 2;
+        double Harga = beratbarang.Harga;
+        double Ongkir = beratbarang.Ongkir();
 
 
-        System.out.println("Dimensi Barang = " + vdb +"\n" + "Jadi Harga Pengiriman adalah = " + harga);
+        System.out.println("Dimensi Barang = " + vdb +"\n" + "Jadi Harga Pengiriman adalah = " + Ongkir);
 
     }
 }
