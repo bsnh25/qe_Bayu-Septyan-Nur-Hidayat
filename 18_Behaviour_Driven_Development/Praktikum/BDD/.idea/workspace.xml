@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23d2d8ae-2175-4a60-9578-1d7e0d4266b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/User/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/User/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Job/search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Job/search.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/login.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/starter/stepdefinitions/LoginSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/User/invitation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/User/invitation.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/User/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/User/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/User/search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/User/search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BDD-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/BDD-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/File Baru/Kuliah/Quality Engineer/qe_Bayu-Septyan-Nur-Hidayat/18_Behaviour_Driven_Development/Praktikum/BDD/src/test/java/starter/stepdefinitions/User",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/File Baru/Kuliah/Quality Engineer/qe_Bayu-Septyan-Nur-Hidayat/18_Behaviour_Driven_Development/Praktikum/BDD/src/test/java/starter/stepdefinitions/User&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="starter.account" />

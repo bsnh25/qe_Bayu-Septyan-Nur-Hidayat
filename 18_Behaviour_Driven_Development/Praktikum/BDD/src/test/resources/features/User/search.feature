@@ -14,3 +14,9 @@ Feature: Search
     When I click search menu
     And I write specific persons
     Then I get result by the spesific persons
+
+  Scenario: Search by a company
+    Given I go to login page
+    When I click search menu
+    And I write specific company
+    Then I get result by the spesific company

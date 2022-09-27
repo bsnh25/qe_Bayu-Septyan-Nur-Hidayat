@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Search","Search by jobs","SUCCESS","2022-09-27T17:28:12.2776169+07:00[Asia/Bangkok]","0.0","0.06"
-"Search","Search by a persons","SUCCESS","2022-09-27T17:28:12.3534146+07:00[Asia/Bangkok]","0.0","0.06"
+"Search","Search by jobs","SUCCESS","2022-09-27T20:25:39.6217885+07:00[Asia/Bangkok]","0.0","0.1"
+"Search","Search by a persons","SUCCESS","2022-09-27T20:25:39.7454558+07:00[Asia/Bangkok]","0.0","0.11"
+"Search","Search by a company","SUCCESS","2022-09-27T20:25:39.8796151+07:00[Asia/Bangkok]","0.0","0.07"

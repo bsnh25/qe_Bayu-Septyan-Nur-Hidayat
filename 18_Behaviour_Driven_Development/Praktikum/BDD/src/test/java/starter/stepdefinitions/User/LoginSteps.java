@@ -95,4 +95,29 @@ public class LoginSteps {
     public void iGetResultByTheSpesificPersons() {
         System.out.println("I get result by the spesific persons");
     }
+
+    @And("I write specific company")
+    public void iWriteSpecificCompany() {
+        System.out.println("I write specific company");
+    }
+
+    @Then("I get result by the spesific company")
+    public void iGetResultByTheSpesificCompany() {
+        System.out.println("I get result by the spesific company");
+    }
+
+    @And("I click pending invitations")
+    public void iClickPendingInvitations() {
+        System.out.println("I click pending invitations");
+    }
+
+    @And("I accept a request with click checklist button")
+    public void iAcceptARequestWithClickChecklistButton() {
+        System.out.println("I accept a request with click checklist button");
+    }
+
+    @Then("I get connect with that persons")
+    public void iGetConnectWithThatPersons() {
+        System.out.println("I get connect with that persons");
+    }
 }
