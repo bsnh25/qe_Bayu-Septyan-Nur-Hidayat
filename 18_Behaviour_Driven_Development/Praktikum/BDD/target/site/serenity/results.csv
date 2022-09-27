@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Invite","Connect persons","SUCCESS","2022-09-27T17:28:11.5894567+07:00[Asia/Bangkok]","0.0","0.41"
+"Login","Can Login","SUCCESS","2022-09-27T17:28:12.0382566+07:00[Asia/Bangkok]","0.0","0.09"
+"Login","Failed Login","SUCCESS","2022-09-27T17:28:12.1439751+07:00[Asia/Bangkok]","0.0","0.11"
+"Search","Search by jobs","SUCCESS","2022-09-27T17:28:12.2776169+07:00[Asia/Bangkok]","0.0","0.06"
+"Search","Search by a persons","SUCCESS","2022-09-27T17:28:12.3534146+07:00[Asia/Bangkok]","0.0","0.06"

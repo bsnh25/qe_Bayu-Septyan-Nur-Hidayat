@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Can Login","SUCCESS","2022-09-27T17:28:12.0382566+07:00[Asia/Bangkok]","0.0","0.09"
+"Login","Failed Login","SUCCESS","2022-09-27T17:28:12.1439751+07:00[Asia/Bangkok]","0.0","0.11"

@@ -1,0 +1,3 @@
+starter\stepdefinitions\User\LoginSteps.class
+starter\stepdefinitions\User\SearchSteps.class
+starter\cucumberTestSuite.class
