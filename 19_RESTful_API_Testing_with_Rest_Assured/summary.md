@@ -26,6 +26,51 @@
 
 ## Rest Assured Features and Writing Test
 
+ A. REST Assured and The Features
+  - Support for HTTP Method
+  - Support for BDD / Gherkin (GIven, When, Then)
+  - Use of Homecrest matches for checks (equalTo)
+  - User of Gpath for selecting element from JSON response
 
+ B. Preparation
+  - Java Development Kit (jdk)
+  - Maven
+  - Intellij IDEA
 
+ C. Project Structure 
+  - Standart
 
+  ![alt text](standart.jpg)
+
+  - Advance
+
+  ![alt text](advance.jpg)
+
+ D. Create a Story ad Runner Class
+
+  ![alt text](csrc.jpg)
+
+ E. Writing The Test
+  - Test Setup
+   a) .contentType()
+   b) .header()
+
+  - Test Action 
+   a) .get(url), .post(), .delete(), etc.
+   b) .log().all()
+  
+  - Test Verification
+  a) .statusCode()
+  b) .body("data.nama".equalTo("Kentir"))
+
+ F. Validation Crucial Response
+
+ ![alt text](valid.jpg)
+
+ G. Validation JSON SCHEMA
+
+ ![alt text](validjson.jpg)
+
+## SERENITY BDD
+
+ ![alt text](serenity.jpg)
