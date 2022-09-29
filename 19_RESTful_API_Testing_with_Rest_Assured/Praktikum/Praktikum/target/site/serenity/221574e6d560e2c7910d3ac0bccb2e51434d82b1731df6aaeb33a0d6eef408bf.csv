@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get a information of the Book with ISBN","Get a title Book with valid ISBN (9781449325862)","SUCCESS","2022-09-29T17:41:35.9302551+07:00[Asia/Bangkok]","0.0","9.67"
+"Get a information of the Book with ISBN","Get a Book with invalid ISBN (11)","SUCCESS","2022-09-29T17:41:46.400127+07:00[Asia/Bangkok]","0.0","2.58"

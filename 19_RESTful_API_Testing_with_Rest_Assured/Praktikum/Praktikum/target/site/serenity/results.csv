@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete Account with User ID","Delete account with invalid user id","SUCCESS","2022-09-29T17:41:36.1736013+07:00[Asia/Bangkok]","0.0","9.22"
+"Delete Book with User ID","Delete book with invalid user id","SUCCESS","2022-09-29T17:41:36.1586427+07:00[Asia/Bangkok]","0.0","9.42"
+"Get a information of the Book with ISBN","Get a title Book with valid ISBN (9781449325862)","SUCCESS","2022-09-29T17:41:35.9302551+07:00[Asia/Bangkok]","0.0","9.67"
+"Get a information of the Book with ISBN","Get a Book with invalid ISBN (11)","SUCCESS","2022-09-29T17:41:46.400127+07:00[Asia/Bangkok]","0.0","2.58"
+"Get Account with User ID","Get Account with invalid User ID","SUCCESS","2022-09-29T17:41:36.2055154+07:00[Asia/Bangkok]","0.0","9.36"
+"Get All Book","Get all book","FAILURE","2022-09-29T17:41:36.1885637+07:00[Asia/Bangkok]","0.0","11.26"
