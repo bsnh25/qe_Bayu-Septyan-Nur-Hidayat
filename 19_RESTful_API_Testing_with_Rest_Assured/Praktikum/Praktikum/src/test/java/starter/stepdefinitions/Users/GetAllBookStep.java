@@ -7,9 +7,9 @@ import starter.Users.GetAllBook;
 
 public class GetAllBookStep {
 
-        @Given("I set url")
-        public void iSetUrl() {
-                GetAllBook.setUrl();
+        @Given("I set url book")
+        public void iSetUrlBook() {
+                GetAllBook.setUrlBook();
         }
 
         @When("I request get all of book")

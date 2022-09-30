@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Delete Book with User ID" skipped="0" tests="1" time="9.42" timestamp="2022-09-29 05:41:36"><testcase name="Delete book with invalid user id"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Delete Book with User ID" skipped="0" tests="1" time="7.67" timestamp="2022-09-30 04:24:37"><testcase name="Delete book with invalid user id"/></testsuite>

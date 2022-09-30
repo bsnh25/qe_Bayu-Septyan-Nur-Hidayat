@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authorized Account","Authorized Account with valid username and password","SUCCESS","2022-09-30T16:24:37.3694674+07:00[Asia/Bangkok]","0.0","10.05"
+"Authorized Account","Authorized Account with valid username and invalid password","SUCCESS","2022-09-30T16:24:47.4332281+07:00[Asia/Bangkok]","0.0","2.23"
+"Authorized Account","Authorized Account with invalid username and password","SUCCESS","2022-09-30T16:24:49.6744988+07:00[Asia/Bangkok]","0.0","1.5"

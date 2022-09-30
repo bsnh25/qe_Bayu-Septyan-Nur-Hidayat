@@ -1,8 +1,12 @@
 starter\Users\DeleteAccount.class
 starter\Users\GetAllBook.class
+starter\Users\PostAuth.class
+starter\Users\PostToken.class
 starter\stepdefinitions\Users\GetAllBookStep.class
+starter\stepdefinitions\Users\PostAuthStep.class
 starter\stepdefinitions\Users\DeleteAccountStep.class
 starter\Users\GetAccount.class
+starter\stepdefinitions\Users\PostTokenStep.class
 starter\CucumberTestSuite.class
 starter\stepdefinitions\Users\GetABookStep.class
 starter\Users\GetABook.class

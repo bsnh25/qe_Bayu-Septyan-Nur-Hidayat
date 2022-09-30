@@ -148,7 +148,7 @@
             $("#requirements-tabs").tabs();
             $("#test-tabs").tabs();
 
-            var requirementsTree = [{"text":"Get All Book","type":"feature","href":"6b3f83b5c5734d7dc8c684d649ef45d7a1fc407c9c2d151e3b8e799e853102ad.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-times-circle failure-icon \u0027 title\u003d\u0027FAILURE\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e1 scenario\u003c/span\u003e"]}];
+            var requirementsTree = [{"text":"Get All Book","type":"feature","href":"6b3f83b5c5734d7dc8c684d649ef45d7a1fc407c9c2d151e3b8e799e853102ad.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-check-circle-o success-icon \u0027 title\u003d\u0027SUCCESS\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e1 scenario\u003c/span\u003e"]}];
 
             $('#tree').treeview({
                 data: requirementsTree,
@@ -222,7 +222,7 @@
             <a href="#"><i class="fa fa-comments-o"></i> Features</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 29-09-2022 17:41</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 30-09-2022 16:24</span>
     <br style="clear:left"/>
 </div>
 
@@ -294,7 +294,7 @@ So I can get information all of the book
                                                                                             <a style="margin-left:0.5em;padding-right: 1.5em;"
                                                                                                href="e848f5c586d6d7d17b8070cc3fa98b63f49b22450bed95097b2d97b611aa89fd.html"
                                                                                                title="View test results">
-                                                                                                <a href='##beforetable'><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></a>
+                                                                                                <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a>
                                                                                                 </a>
 
 
@@ -316,11 +316,11 @@ So I can get information all of the book
 
                                                     <h3>Scenarios</h3>
 
-                                                        <a name="c0c78c11-3004-4180-8e6c-6478d6d9999a" ></a>
+                                                        <a name="1cc9b205-6ee7-4466-a89a-4dc4c6a9ae75" ></a>
 
 
                                                             <div class="scenario-docs card" id="845bf66339209dbf679c8243b7fe940bc312e17b34ac7e2f625e72d5ce1a4fa6">
-                                                                <div class="scenario-docs card-header failure"
+                                                                <div class="scenario-docs card-header success"
                                                                      style="min-height:1.5em;">
                                                                     <div>
                                                             <span class="scenario-heading">
@@ -330,12 +330,12 @@ So I can get information all of the book
                                                                         <span class="scenario-result-icon">
                                                                 
 
-                                                                                <a href='##beforetable'><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></a>
+                                                                                <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a>
                                                             </span>
                                                                     </div>
                                                                 </div>
                                                                 <div class="scenario-docs card-body">
-                                                                        <p>Given I set url</p>
+                                                                        <p>Given I set url book</p>
                                                                         <p>When I request get all of book</p>
                                                                         <p>Then I will get 200</p>
                                                                         <p>And get all of the infromation of the book</p>
@@ -358,10 +358,10 @@ So I can get information all of the book
                                                 </div>
                                                 <script>
 
-                                                    var labels = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '100%', ' ', ' ', ' ', ' ', ' '];
+                                                    var labels = ['100%', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '];
                                                     // Our series array that contains series objects or in this case series data arrays
 
-                                                    var series = [{meta: 'Passing tests (automated)', value: 0}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 0}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 1}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 0}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
+                                                    var series = [{meta: 'Passing tests (automated)', value: 1}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 0}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 0}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 0}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
 
                                                     // As options we currently only set a static size of 300x200 px. We can also omit this and use aspect ratio containers
                                                     // as you saw in the previous example
@@ -400,11 +400,12 @@ So I can get information all of the book
                                                         </thead>
                                                         <tbody>
                                                         <tr>
-                                                                <td class="aggregate-result-count"><i
-                                                                            class='fa fa-check-circle-o success-icon'></i>&nbsp;Passing
+                                                                <td class="aggregate-result-count">
+                                                                    <a href="4cdf4aebee7817922fb9ed50104f7a808643c34135b85dcee6a8008180805776.html"><i
+                                                                                class='fa fa-check-circle-o success-icon'></i>&nbsp;Passing</a>
                                                                 </td>
-                                                            <td class="automated-stats">0</td>
-                                                            <td class="automated-stats"> </td>
+                                                            <td class="automated-stats">1</td>
+                                                            <td class="automated-stats">100%</td>
                                                         </tr>
                                                         <tr>
                                                                 <td class="aggregate-result-count"><i
@@ -428,19 +429,19 @@ So I can get information all of the book
                                                             <td class="automated-stats"> </td>
                                                         </tr>
                                                         <tr>
-                                                                    <td colspan="3"><a href="db2c4444d40bc99220b117d7fb76549a483e82bbbc6ad76cb1365fe6a2fd61db.html"><i
-                                                                                    class='fa fa-times failure-icon'></i>&nbsp;<em>Unsuccessful</em></a>
+                                                                    <td colspan="3"><i
+                                                                                class='fa fa-times failure-icon'></i>&nbsp;<em>Unsuccessful</em></a>
                                                                     </td>
 
                                                         </tr>
 
                                                         <tr>
                                                                 <td class="aggregate-result-count indented-error-category">
-                                                                    <a href="8caa40c7c6b1498c01d6048369931ec3e2e3266a20207b8f9793a3af6647c2da.html"><i
-                                                                                class='fa fa-times-circle failure-icon'></i>&nbsp;Failed</a>
+                                                                    <i
+                                                                            class='fa fa-times-circle failure-icon'></i>&nbsp;Failed
                                                                 </td>
-                                                            <td class="automated-stats">1</td>
-                                                            <td class="automated-stats">100%</td>
+                                                            <td class="automated-stats">0</td>
+                                                            <td class="automated-stats"> </td>
                                                         <tr>
                                                                 <td class="aggregate-result-count indented-error-category">
                                                                     <i
@@ -480,11 +481,11 @@ So I can get information all of the book
                                                         </thead>
                                                         <tbody>
                                                         <tr>
-                                                            <td>11s</td>
+                                                            <td>10s</td>
                                                             <td>0ms</td>
-                                                            <td>11s</td>
-                                                            <td>11s</td>
-                                                            <td>11s</td>
+                                                            <td>10s</td>
+                                                            <td>10s</td>
+                                                            <td>10s</td>
                                                         </tr>
                                                         </tbody>
                                                     </table>
@@ -508,16 +509,16 @@ So I can get information all of the book
                                                             </tr>
                                                             </thead>
                                                             <tbody>
-                                                                <tr class="scenario-result FAILURE">
+                                                                <tr class="scenario-result SUCCESS">
                                                                     <td>
                                                                             <a href="e848f5c586d6d7d17b8070cc3fa98b63f49b22450bed95097b2d97b611aa89fd.html">Get all book</a>
                                                                     </td>
                                                                     <td>4</td>
-                                                                    <td>17:41:36</td>
-                                                                    <td>11s 255ms</td>
+                                                                    <td>16:24:37</td>
+                                                                    <td>10s 115ms</td>
                                                                     <td>
-                                                                            <a href='##beforetable'><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></a> <span
-                                                                                style="display:none">FAILURE</span>
+                                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
+                                                                                style="display:none">SUCCESS</span>
                                                                     </td>
                                                                 </tr>
                                                             </tbody>
