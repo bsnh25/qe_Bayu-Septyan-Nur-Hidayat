@@ -1,2 +1,7 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"See Information","See Information of Git Pocket Guide Book","SUCCESS","2022-10-04T16:19:17.4931196+07:00[Asia/Bangkok]","0.0","50.14"
+"See Information","See Information of You Don't Know JS Book","SUCCESS","2022-10-05T16:56:31.4658056+07:00[Asia/Bangkok]","0.0","47.37"
+"See Information","See Information of Programming JavaScript Applications Book","SUCCESS","2022-10-05T16:57:19.4259453+07:00[Asia/Bangkok]","0.0","42.68"
+"See Information","See Information of Understanding ECMAScript 6 Book","SUCCESS","2022-10-05T16:59:18.8138635+07:00[Asia/Bangkok]","0.0","42.47"
+"Login","Login with valid userName and Password","SUCCESS","2022-10-05T17:00:01.7054973+07:00[Asia/Bangkok]","0.0","52.17"
+"Login","Login with valid username and invalid password","SUCCESS","2022-10-05T17:00:54.2970868+07:00[Asia/Bangkok]","0.0","45.96"
+"Login","Login with invalid username and valid password","SUCCESS","2022-10-05T17:02:42.5042364+07:00[Asia/Bangkok]","0.0","39.87"

@@ -11,9 +11,11 @@ public class LoginStep {
     @Steps
     LoginPage loginPage; //kalau Steps ini engga didefine, berarti kita ga bisa pake methodnya login page
 
-    @Given("I am on the login page")
-    public void iAmOnTheLoginPage() {
+    @Given("I click login button on book store")
+    public void iClickLoginButtonOnBookStore() {
+
         loginPage.openUrl();
+        loginPage.scrollDown();
     }
 
     @When("I input invalid userName")

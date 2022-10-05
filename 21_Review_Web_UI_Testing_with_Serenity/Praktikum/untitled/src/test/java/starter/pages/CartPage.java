@@ -2,6 +2,7 @@ package starter.pages;
 
 import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 
 public class CartPage extends PageObject {
     //komponen2 yang ada di cart page dan interaksi yang dilakukan di setiap komponen
@@ -36,10 +37,14 @@ public class CartPage extends PageObject {
     }
 
     private By seeInfo(){
-        return By.xpath("//div[@class='col-md-9 col-sm-12']");
+        return By.xpath("//div[@class='profile-wrapper']");
     }
     public void bookUrl(){
         openAt("/books");
+    }
+
+    public void scrollDown(){
+        $("//body").sendKeys(Keys.END);
     }
 
     public void clickGitPocketGuide(){
@@ -47,7 +52,7 @@ public class CartPage extends PageObject {
     }
 
     public void displayInfo(){
-        $(seeInfo()).click();
+        $(seeInfo()).isDisplayed();
     }
 
     public void clickLjdp(){

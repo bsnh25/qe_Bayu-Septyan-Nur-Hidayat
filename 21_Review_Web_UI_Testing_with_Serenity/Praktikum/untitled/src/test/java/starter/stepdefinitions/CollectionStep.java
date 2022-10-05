@@ -15,6 +15,7 @@ public class CollectionStep {
         @Given("^I am on the book page$")
         public void iAmOnTheBookPage(){
         cartPage.bookUrl();
+        cartPage.scrollDown();
         }
         @When("^I click Git Pocket Guide$")
         public void iClickGitPocketGuide(){

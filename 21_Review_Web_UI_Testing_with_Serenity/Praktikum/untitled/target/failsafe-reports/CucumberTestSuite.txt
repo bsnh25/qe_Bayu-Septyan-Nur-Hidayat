@@ -1,4 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: CucumberTestSuite
 -------------------------------------------------------------------------------
-Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 299.673 s - in CucumberTestSuite
+Tests run: 12, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 748.391 s <<< FAILURE! - in CucumberTestSuite
+See Information.See Information of Eloquent JavaScript, Second Edition Book  Time elapsed: 76.267 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='profile-wrapper']"}
+  (Session info: MicrosoftEdge=105.0.1343.53)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'DESKTOP-2F464B0', ip: '192.168.21.123', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [09d552e54bb7bd8a03c26251f9f42cb4, findElement {using=xpath, value=//div[@class='profile-wrapper']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 105.0.1343.53, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:4673}, msedge: {msedgedriverVersion: 105.0.1343.53 (3a47f00402d5..., userDataDir: C:\Users\Bayu\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:4673/devtool..., se:cdpVersion: 105.0.1343.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 09d552e54bb7bd8a03c26251f9f42cb4
+

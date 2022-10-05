@@ -2,6 +2,7 @@ package starter.pages;
 
 import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 
 public class LoginPage extends PageObject {
     //komponen dan interaksi yang akan dilakukan pada login page akan aku define di sini
@@ -62,5 +63,9 @@ public class LoginPage extends PageObject {
 
     public void errorMessageDisplayed(){
         $(errorMessage()).isDisplayed();
+    }
+
+    public void scrollDown(){
+        $("//body").sendKeys(Keys.END);
     }
 }
