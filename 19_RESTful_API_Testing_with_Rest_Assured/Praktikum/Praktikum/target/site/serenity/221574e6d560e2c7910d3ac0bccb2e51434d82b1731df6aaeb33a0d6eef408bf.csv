@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Get a information of the Book with ISBN","Get a title Book with valid ISBN (9781449325862)","SUCCESS","2022-09-30T16:24:37.3914032+07:00[Asia/Bangkok]","0.0","8.02"
-"Get a information of the Book with ISBN","Get a Book with invalid ISBN (11)","SUCCESS","2022-09-30T16:24:45.52231+07:00[Asia/Bangkok]","0.0","2.07"
+"Get a information of the Book with ISBN","Get a title Book with valid ISBN (9781449325862)","SUCCESS","2022-10-19T22:44:02.6352522+07:00[Asia/Bangkok]","0.0","8.39"
+"Get a information of the Book with ISBN","Get a Book with invalid ISBN (11)","SUCCESS","2022-10-19T22:44:11.1303395+07:00[Asia/Bangkok]","0.0","1.38"

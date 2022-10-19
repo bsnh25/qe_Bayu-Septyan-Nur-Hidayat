@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Get Account with User ID" skipped="0" tests="1" time="7.84" timestamp="2022-09-30 04:24:37"><testcase name="Get Account with invalid User ID"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Get Account with User ID" skipped="0" tests="1" time="8.21" timestamp="2022-10-19 10:44:02"><testcase name="Get Account with invalid User ID"/></testsuite>

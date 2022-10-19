@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Generate Token Account" skipped="0" tests="3" time="14.28" timestamp="2022-09-30 04:24:37"><testcase name="Generate token with valid username and password"/><testcase name="Generate token with valid username and invalid password"/><testcase name="Generate token with invalid username and password"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Generate Token Account" skipped="0" tests="3" time="13.31" timestamp="2022-10-19 10:44:02"><testcase name="Generate token with valid username and password"><failure message="1 expectation failed.&#10;JSON path status doesn't match.&#10;Expected: Success&#10;  Actual: Failed&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path status doesn't match.
+Expected: Success
+  Actual: Failed
+</failure><system-err>1 expectation failed.
+JSON path status doesn't match.
+Expected: Success
+  Actual: Failed
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:261)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:108)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$body(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)&#13;
+io.restassured.internal.ValidatableResponseImpl.body(ValidatableResponseImpl.groovy:298)&#13;
+io.restassured.internal.ValidatableResponseImpl.body(ValidatableResponseImpl.groovy)&#13;
+Praktikum@1.0-SNAPSHOT/starter.Users.PostToken.validationOfToken(PostToken.java:24)&#13;
+Praktikum@1.0-SNAPSHOT/starter.stepdefinitions.Users.PostTokenStep.getInformationOfTheToken(PostTokenStep.java:25)&#13;
+✽.get information of the token(file:///D:/File%20Baru/Kuliah/Quality%20Engineer/qe_Bayu-Septyan-Nur-Hidayat/19_RESTful_API_Testing_with_Rest_Assured/Praktikum/Praktikum/src/test/resources/features/Users/PostToken.feature:11)&#13;
+</system-err></testcase><testcase name="Generate token with valid username and invalid password"/><testcase name="Generate token with invalid username and password"/></testsuite>
