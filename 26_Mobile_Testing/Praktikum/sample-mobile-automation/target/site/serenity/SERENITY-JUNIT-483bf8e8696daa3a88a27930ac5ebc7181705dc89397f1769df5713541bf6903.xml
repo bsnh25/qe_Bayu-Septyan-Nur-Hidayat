@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Calculator" skipped="0" tests="4" time="131.04" timestamp="2022-10-19 04:58:07"><testcase name="Adding two numbers"/><testcase name="Minus two number"/><testcase name="Div two number"/><testcase name="Time two number"/></testsuite>

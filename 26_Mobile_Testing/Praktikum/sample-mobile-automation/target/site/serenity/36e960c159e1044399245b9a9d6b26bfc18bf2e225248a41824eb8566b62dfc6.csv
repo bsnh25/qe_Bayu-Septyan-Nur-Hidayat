@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Calculator","Adding two numbers","SUCCESS","2022-10-19T16:58:07.2244521+07:00[Asia/Bangkok]","0.0","45.23"
+"Calculator","Minus two number","SUCCESS","2022-10-19T16:58:52.5027395+07:00[Asia/Bangkok]","0.0","29.14"
+"Calculator","Div two number","SUCCESS","2022-10-19T16:59:21.6633829+07:00[Asia/Bangkok]","0.0","29.77"
+"Calculator","Time two number","SUCCESS","2022-10-19T16:59:51.4567163+07:00[Asia/Bangkok]","0.0","26.9"
