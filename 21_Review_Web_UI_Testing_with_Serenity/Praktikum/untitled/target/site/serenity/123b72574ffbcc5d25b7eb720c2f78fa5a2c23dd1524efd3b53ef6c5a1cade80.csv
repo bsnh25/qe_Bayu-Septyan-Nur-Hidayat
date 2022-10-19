@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Login","Login with valid userName and Password","SUCCESS","2022-10-05T17:00:01.7054973+07:00[Asia/Bangkok]","0.0","52.17"
-"Login","Login with valid username and invalid password","SUCCESS","2022-10-05T17:00:54.2970868+07:00[Asia/Bangkok]","0.0","45.96"
-"Login","Login with invalid username and valid password","SUCCESS","2022-10-05T17:02:42.5042364+07:00[Asia/Bangkok]","0.0","39.87"
