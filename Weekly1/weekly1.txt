@@ -1,0 +1,33 @@
+a. Tedapat skenrio pengujian
+b. Terdapat kasus pengujian
+c. Test case dikelola dengan menggunakan TestRail
+d. Fitur yang diuji adalah sebagai berikut
+	- Barang (item)
+		1. Create New Item
+		2. Delete Item
+		3. Udpate Item
+
+	- Laporan (report)
+		1. Laporan Grafis
+		2. Laporan ringkasan
+		3. Laporan rinci
+		4. Laporan stock
+
+	- Pemasok (Supplier)
+		1. Create Suplayer Baru
+		2. Delete suplayer
+		3. Update suplayer
+
+	- Item Paket (Item Kit)
+		1. Create Kit Produk Baru
+		2. Delete Kit Produk
+		3. Update Kit Produk
+
+	- Penjualan (Sales)
+		1. Menambahkan barang ke keranjang
+		2. Menghapus barang di keranjang
+		3. Memilih Jenis Pembayaran
+		4. Menghapus jenis pembayaran 
+
+username: admin
+password pointofsale
